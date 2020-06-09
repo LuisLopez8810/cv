@@ -1,0 +1,65 @@
+h1,p{
+    text-align: center;
+}
+.imgCarousel{
+    height: 350px;
+    width: 100%;
+}
+.sectionBeneficios{
+    background: #eceeef;
+    padding: 2rem; /*space under carousel if MD of 6*/
+}
+.containerBeneficio{
+    margin-top:-50px;
+}
+.sectionQuienesSomos{
+    background: #eceeef;
+    padding: 0 16px 16px;
+}
+.sectionTipos{
+    background: #eceeef;
+}
+.sectionContacto{
+    background: #eceeef;
+}
+.imagesTypes img{
+    width: 100%;
+}
+.containers{
+    margin: 50px 0px 50px;
+}
+.parrafo{
+    font-size:18px;
+    font-weight: 300;
+    text-align: justify;
+}
+hr {
+    height: 1px;
+    color: #123455;
+    background-color: #123455;
+    border: none;
+}
+.imgMasaje{
+    padding: 0 16px 16px;
+   
+}
+.centerIcons{
+    text-align: center;
+}
+.fa{
+    margin:10px;
+}
+
+.fa-facebook-square{
+    color:#3b5998;
+}
+.fa-envelope{
+    color:#c32f10;
+}
+.fa-instagram{
+    color:#fff;
+}
+
+ 
+
+
